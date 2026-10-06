@@ -1,0 +1,23 @@
+{
+  "protocols": [
+    "6.0"
+  ],
+  "os": "freebsd",
+  "arch": "arm64",
+  "filename": "terraform-provider-mailgun_0.10.1-ratelimit.1_freebsd_arm64.zip",
+  "download_url": "https://github.com/InsiteSoftware/terraform-provider-mailgun/releases/download/v0.10.1-ratelimit.1/terraform-provider-mailgun_0.10.1-ratelimit.1_freebsd_arm64.zip",
+  "shasums_url": "https://github.com/InsiteSoftware/terraform-provider-mailgun/releases/download/v0.10.1-ratelimit.1/terraform-provider-mailgun_0.10.1-ratelimit.1_SHA256SUMS",
+  "shasums_signature_url": "https://github.com/InsiteSoftware/terraform-provider-mailgun/releases/download/v0.10.1-ratelimit.1/terraform-provider-mailgun_0.10.1-ratelimit.1_SHA256SUMS.sig",
+  "shasum": "74a24d00d76efdffec858a4e878644189158db1ec3ff6f21cbab984bfc060d82",
+  "signing_keys": {
+    "gpg_public_keys": [
+      {
+        "key_id": "CD2006D7A3D26E2D",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQINBGrFV/0BEAC5Z4rGC576vGBtPM9zVfYh3y5/w0qsfpcRni/wNUdXrIxeMGbW\nEaU7y0j9IYRveauy0CrTVJM3KDyYFLiqsmfsFczJyZ1q8HWmxGaxKKdN2OBOaPGF\npB+7kBoTVIz2JcOHmA9agNulNKfNOjg0B89NBaWrjhBlvp8AV1GqWQeH0NMH0kk8\nVsgjzYCq2ROKa5SW7eJYGMtMpMPnuGrTyL1aoICBtQYR9gF7ti6tH9HpNgHp7JKv\nV1e5FERRVafL0Ute9bH80CShwgewmyqSTcKbKVRkCkBcYk4t7QvC8qF7vlEE6dIm\nLIiU60RDl1J5/a+YYKt6slD6WP4Vqo1Tw0ExkTWgBlJ8tK6gHPepN+obeJZrtzDJ\nvP4HBR8EEXX27NzPnjZcgntzH4Q73ljneLrZ2Nf/YmNt2fxAKXIiwEPjOqhxkZ0S\n2tBvHRLJe/ur+wNIxmu3I19m/8Jqj9wA+yi3+V12/rFQPzbhF6bUcWL7gAmPN77Z\na0XffHZzAO9Nuo8iqfV1ZEw8Z7DoxJxbwxByGjXK1rMVaR3CK+vKZkJFULm8XP7R\nLVs4av940YNkT0AvgtyV4RgXDaz/7VOpoHTjn5bmdaiijDfi82dHas0bi4WMzjAY\nqc1+mRmrvvNeMCGkIt2814UQdOly1wMLXA1YXHCwXAoFU+ZsGM9aTgTHfwARAQAB\ntClJbnNpdGVTb2Z0d2FyZSBUZXJyYWZvcm0gUHJvdmlkZXIgU2lnbmluZ4kCTgQT\nAQoAOBYhBL7CtwbeQvyairgR0c0gBtej0m4tBQJqxVf9AhsDBQsJCAcCBhUKCQgL\nAgQWAgMBAh4BAheAAAoJEM0gBtej0m4t2pQP/RKBgMbO9ZuF6zCqH1Gg7QYtar9q\nMaWMT34TWLZxsjfMIl0PNKzgaqOO2PjbynhSMMYWXKx3JKvsmc88BS4hIz9SsdSU\nzzrGoJEFlhyZdEO0QbpYIomj4aU0LTJ7SqknGB+NzQJOg0AfvP3MpeWHZDEccWN0\no9Zl0yP1eCHJXriwjht5SI6R+FTxoNMGQG+AkPv9UgqKEP8PtBzSttaGVz8b/lMd\nYI8UqKraSw/2Wa0K34MaUxOHpTOBpwjD1AB+Fd0eYwt8rd2YpKCciCSeauMhjtZL\nffu3ByG0SUy0sQ3kfDMu9Nt9OfZOIrDlcLXr5WFheHSAPGNrk47GmW9PR1SHN6qY\nsBPJ0AymnxMYo7po7bBs4/j4DHgRNqdC35jFw4in7u2fyLaGMFACwojphi7lstYS\n7NKOZKjwBgjaxNMusCLgtUTRlGlJv8dyeN5ltIDdgYRrd/IXyI10ZPf8hlZrMZeJ\nRM+UKRzVcVAblNxVdGE9M3h4T1M/XlBAslvtlGoyjXp9Z0egvyhkxqkOo4KnfB01\nrdejAeHTETtRgJVFCHUhdj9IllYgj60lgNt6PYxUc7ePTPx1A/6xnpA98jk5lwrt\nNKADXr858LS2lWGmMFaLnnE4gF76KxmDv8758msYIk2+bddeTg+FZ5A2Dlqk5C2P\npKbkwymfaPrqHHq3\n=HY0j\n-----END PGP PUBLIC KEY BLOCK-----\n",
+        "trust_signature": "",
+        "source": "InsiteSoftware",
+        "source_url": null
+      }
+    ]
+  }
+}
